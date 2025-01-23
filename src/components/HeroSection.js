@@ -10,7 +10,7 @@ const HeroSection = () => {
           Bet Blocker helps you stay in control by blocking sports betting
           sites. Regain focus and control today!
         </p>
-        <a href="#features" className="cta-button">
+        <a href="https://sure-odds.com/" className="cta-button">
           Get the Extension
         </a>
       </div>
