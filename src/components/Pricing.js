@@ -11,7 +11,7 @@ const Pricing = () => {
       </div>
       <div className="pricing-card">
         <h3>$5</h3>
-        <p>Get an additional unblock code for 10 minutes of access.</p>
+        <p>Get an additional unblock code for 30 minutes of access.</p>
       </div>
       <a href="https://sure-odds.com/" className="cta-button">
         Get the Extension

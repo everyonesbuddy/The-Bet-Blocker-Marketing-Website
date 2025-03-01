@@ -23,7 +23,7 @@ const Features = () => {
         <div className="feature">
           <h3>Affordable Additional Access</h3>
           <p>
-            Need more time? Unlock an extra 10 minutes for only $5 with an
+            Need more time? Unlock an extra 30 minutes for only $5 with an
             unblock code.
           </p>
         </div>
